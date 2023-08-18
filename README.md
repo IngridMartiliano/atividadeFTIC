@@ -1,0 +1,2 @@
+# atividadeFTIC
+Exercício para praticar 
