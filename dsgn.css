@@ -1,0 +1,25 @@
+span {
+    font-weight: bold;
+}
+
+.componentes {
+    color: rgb(98, 105, 14);
+}
+
+.container {
+    width: 450px;
+    height: 550px;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: darkgray;
+}
+
+li {
+font-family: Arial, Helvetica, sans-serif;
+padding: 5px;
+margin: 20px;
+}
+
+h1 {
+    margin: 100px;
+}
